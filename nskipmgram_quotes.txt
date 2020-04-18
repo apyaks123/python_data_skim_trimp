@@ -1,0 +1,21 @@
+-------------------------------------------
+-------------------------------------------
+sentence: Talk is cheap Until you hire a lawyer
+Output of2-skip-2-grams:
+Output sentence: Talk Until,is you,cheap hire,Until a,
+-------------------------------------------
+-------------------------------------------
+-------------------------------------------
+-------------------------------------------
+sentence: Artificial intelligence is no match for natural stupidity
+Output of2-skip-2-grams:
+Output sentence: Artificial no,intelligence match,is for,no natural,
+-------------------------------------------
+-------------------------------------------
+-------------------------------------------
+-------------------------------------------
+sentence: If nothing was learned nothing was taught
+Output of2-skip-3-grams:
+Output sentence: If learned taught 
+-------------------------------------------
+-------------------------------------------
